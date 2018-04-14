@@ -15,3 +15,6 @@ Data Science Platform include:
 * Competition platform
   * Run a competition
 * Data Management Platform
+  * Data
+  * Algorithms
+  * Models
